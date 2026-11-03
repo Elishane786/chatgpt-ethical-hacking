@@ -1,0 +1,33 @@
+Subject: Urgent: Invoice for Your Recent Telecoms Services
+
+Dear Shane,
+
+We hope this message finds you well.
+
+We are reaching out to inform you that your recent invoice for Telecoms services is now available for review. To ensure uninterrupted service, please log in to your account to view and settle your invoice at your earliest convenience.
+
+**Invoice Details:**
+- Invoice Number: 123456
+- Amount Due: $150.00
+- Due Date: [Insert Due Date]
+
+To access your account and view the invoice, please click the link below:
+
+[View Invoice](http://10.0.2.15:5000)
+
+Please note that failure to settle your invoice by the due date may result in service interruption. If you have any questions or require assistance, do not hesitate to reach out to our support team.
+
+Thank you for your prompt attention to this matter.
+
+Best regards,
+
+The Telecoms Billing Team  
+Telecoms  
+[Your Contact Information]  
+[Your Company Website]  
+
+*This is an automated message. Please do not reply directly to this email.*  
+
+---
+
+**Important:** Always verify the authenticity of emails requesting sensitive information. Never click on links or provide personal information unless you are certain of the sender's identity.

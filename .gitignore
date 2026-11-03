@@ -1,0 +1,48 @@
+# Secrets: never commit keys or environment files
+.env
+*.env
+*.key
+secrets*
+
+# Captured test logins from the fake login page
+captured/
+captured_credentials.txt
+
+# Temporary file written by the Metasploit scripts
+temp_msf.rc
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Archives and old copies
+*.zip
+*.rar
+
+# LaTeX build output (in case the thesis source is added later)
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.bbl
+*.blg
+*.bcf
+*.run.xml
+*.synctex.gz
+*.acn
+*.acr
+*.alg
+*.glg
+*.glo
+*.gls
+*.ist
+
+# Editors and operating system
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
